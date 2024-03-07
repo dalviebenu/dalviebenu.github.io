@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I was born in India but raised in many different countries. This include the United States, South Africa, Sweden and I am currently in the
+netherlands. I have a passion for technology and I am always looking for new ways to learn and grow. I am currently a student at the
+Vrije University and University of Amsterdam (Joint Degree) studying MSc of Computer Science.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+In my free time I like to do brasillian jiu jitsu, play video games, read books and paint.
