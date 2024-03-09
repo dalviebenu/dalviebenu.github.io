@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Dalvie's Profolio
+title: Dalvie's Portfolio
 email: dalvie.benu@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my personal portfolio site, please take a look around at my projects!

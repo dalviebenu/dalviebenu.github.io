@@ -1,6 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
 ---
@@ -38,3 +36,7 @@ and skills acquired through rigorous education and professional engagements.
 
 
 ## [List of projects]({% link projects.markdown %})
+
+## [Download my CV][1]
+
+[1]:{{ site.url }}/downloads/CV.pdf
